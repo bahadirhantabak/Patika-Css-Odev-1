@@ -1,0 +1,44 @@
+header {
+    background-color: #F2D8D8;
+    color: #000000;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+body {
+    text-align: center;
+    list-style-position: inside;
+    margin: 0px;
+}
+
+footer {
+    background-color: #F2D8D8;
+    color: #000000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 22px;
+    color: purple;
+}
+
+h2 {
+    font-size: 18px;
+    color: darkgoldenrod;
+}
+
+.nav {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+}
